@@ -1,14 +1,14 @@
 # Site settings
-title: 2020_OSC 9조 사이트(김상훈개인제출용버전)
+title: 2020_OSC 9조
 email: ksanghun10@naver.com
 description: >
   2020 OSC 9조
 lang: en-US
 remote_theme : aksakalli/jekyll-doc-theme@gh-pages
-baseurl:  # the subpath of your site, e.g. /blog/
-url: https://baldwinIV.github.io # the base hostname & protocol for your site
-git_address: https://github.com/baldwinIV
-git_edit_address: https://github.com/baldwinIV
+baseurl: 2020-2-OSS-9 # the subpath of your site, e.g. /blog/
+url: https://20-2-skku-oss.github.io/ # the base hostname & protocol for your site
+git_address: https://github.com/20-2-SKKU-OSS/2020-2-OSS-9
+git_edit_address: https://github.com/20-2-SKKU-OSS/2020-2-OSS-9
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
