@@ -1,8 +1,10 @@
 # OUR PROJECT IS...
 
-contributing PROJECTS
+contribute to project TEAMMATES
 
-## Running locally
+## static page link
+
+https://20-2-skku-oss.github.io/2020-2-OSS-9/
 
 ## License
 
