@@ -5,8 +5,8 @@ description: >
   2020 OSC 9조
 lang: en-US
 remote_theme : aksakalli/jekyll-doc-theme@gh-pages
-baseurl: /2020-2-OSS-9 # the subpath of your site, e.g. /blog/
-url: https://20-2-skku-oss.github.io # the base hostname & protocol for your site
+baseurl:# the subpath of your site, e.g. /blog/
+url: https://20-2-skku-oss.github.io/2020-2-OSS-9 # the base hostname & protocol for your site
 git_address: https://github.com/20-2-SKKU-OSS/2020-2-OSS-9
 git_edit_address: https://github.com/20-2-SKKU-OSS/2020-2-OSS-9
 
