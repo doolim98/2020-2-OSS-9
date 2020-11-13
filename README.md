@@ -4,7 +4,7 @@ contribute to project TEAMMATES
 
 ## static page link
 
-https://github.com/20-2-SKKU-OSS/2020-2-OSS-9
+https://20-2-skku-oss.github.io/2020-2-OSS-9/
 
 ## License
 
