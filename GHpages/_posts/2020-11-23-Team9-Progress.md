@@ -1,6 +1,6 @@
 ---
 layout: post  
-title:  "9조 진행상황"
+title:  "Team 9 progress"
 author: EunJiGil
 ---
 9조의 지난주까지의 진행 상황을 정리해보려고 합니다.
