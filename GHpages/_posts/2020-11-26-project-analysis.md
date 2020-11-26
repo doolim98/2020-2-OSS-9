@@ -11,26 +11,26 @@ author: EunjiGil
 
 현재 프로젝트에서 실행할 수 있는 15개의 게임에 대해 몇가지 소개해보려고 합니다. 
 **Paint**
-Paint -- 스크린에 선과 모양을 그리는 게임. 그리기 시작할 때와 그리기를 종료할 때 클릭하는 방식! 다른 모양과 색깔은 키보드를 사용하여 선택할 수 있다. 
+Paint -- 스크린에 선과 모양을 그리는 게임. 그리기 시작할 때와 그리기를 종료할 때 클릭하는 방식! 다른 모양과 색깔은 키보드를 사용하여 선택할 수 있습니다. 
 ![paint](https://user-images.githubusercontent.com/55980214/99898830-ecfcf380-2ce7-11eb-91d0-33666c24eddb.JPG)
 
 
 **Fidget**
-Fidget -- fidget spinner inspired animation. Click the screen to accelerate the fidget spinner.
+Fidget -- 애니메이션이 포함된 피젯 스피너 게임. 피젯스피너를 빨리 돌리기 위해서 스크린을 클릭하는 간단한 게임입니다.
 ![fidget](https://user-images.githubusercontent.com/55980214/99898824-dce51400-2ce7-11eb-8ce5-d29f22ee9725.JPG)
 
 
 **Tiles**
-Tiles -- puzzle game of sliding numbers into place. Click a tile adjacent to the empty square to swap positions. Can you make the tiles count one to fifteen from left to right and bottom to top?
+Tiles -- 미닫이 놀이를 퍼즐로 맞추는 게임. 빈 사각형에 인접한 타일을 클릭하여 위치를 바꿉니다. 
 ![tiles](https://user-images.githubusercontent.com/55980214/99898826-de164100-2ce7-11eb-844a-4a3bd93618d7.JPG)
 
 
 **Connect**
-Connect -- Connect 4 game. Click a row to drop a disc. The first player to connect four discs vertically, horizontally, or diagonally wins!
+Connect -- 행을 클릭하면 디스크를 삭제할 수 있습니다. 4개의 디스크를 수직, 수평 또는 대각선으로 연결한 첫 번째 플레이어가 승리합니다. 
 ![connect](https://user-images.githubusercontent.com/55980214/99898827-deaed780-2ce7-11eb-9bfb-63e5737ab7d9.JPG)
 
 
 **Pacman**
-Pacman -- classic arcade game. Use the arrow keys to navigate and eat all the white food. Watch out for red ghosts that roam the maze.
+Pacman -- 고전 아케이드 게임. 화살표 키를 사용하여 모든 흰 음식을 탐색하고 먹습니다. 미로를 배회하는 붉은 귀신을 조심하세요.
 ![pacman](https://user-images.githubusercontent.com/55980214/99898828-deaed780-2ce7-11eb-8a89-13157baab231.JPG)
 
