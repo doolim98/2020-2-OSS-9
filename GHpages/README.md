@@ -1,6 +1,7 @@
 # OUR PROJECT IS...
 
-contribute to project TEAMMATES
+https://github.com/20-2-SKKU-OSS/free-python-games 
+11/21 회의 진행 후 변경된 주제입니다! 
 
 ## static page link
 
