@@ -7,6 +7,4 @@ https://github.com/20-2-SKKU-OSS/free-python-games
 
 https://20-2-skku-oss.github.io/2020-2-OSS-9/
 
-## License
-
-static page's theme uses Jekyll Doc Theme(https://github.com/aksakalli/jekyll-doc-theme)
+STATIC page 수정은 GH-pages 브랜치에서 작업해주세요!
