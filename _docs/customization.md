@@ -1,6 +1,6 @@
 ---
 title:  "Project analysis"
-permalink: /docs/home/
+permalink: /docs
 author: EunjiGil
 ---
 
