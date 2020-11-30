@@ -1,5 +1,9 @@
-- title: Project Analysis
+- title: Project analysis
   docs:
   - customization
 
-
+- title: whattodo
+  docs:
+  - cheatsheet
+  - font-awesome
+  - bootstrap
