@@ -1,12 +1,42 @@
 ---
-title: about our projects
+title:  "Project analysis"
 permalink: /docs/home/
+author: EunjiGil
 ---
 
-This template uses [bootstrap-sass](https://github.com/twbs/bootstrap-sass) along with [bootwatch themes](https://bootswatch.com/3).
-You can create your own theme by writing your own `sass` files.
+author: EunjiGil
+다음은 9조가 선정한 프로젝트에 대한 분석입니다.  
 
-Create a new a theme folder like `_sass/bootwatch/custom` and set your `bootwatch` variables in `_config.yml` to `custom`:
+저희가 선정한 프로젝트는 'free-python-games'이며, 교육과 재미를 목적으로 하는 무료 Python 게임이고 현재 총 15개의 게임으로 이루어져 있습니다.
+
+이 게임들은 간단한 파이썬 코드로 쓰여지고 실험과 변화를 위해 고안되었으며, 몇몇 클래식 아케이드 게임의 단순화된 버전이 포함되어 있습니다. 2012년부터 이 프로젝트는 방과후 학교 프로그램으로 시작되어 도심 속 청소년들에게 프로그래밍을 가르치는데에 사용되었습니다. 배우는 만큼 재미있게 노는 것이 목표였고, 그 이후로 포함된 게임들은 점차 향상되었고 교실에서부터 여름 데이 캠프에 이르는 다양한 환경에서 사용되었다고 합니다. Windows, Mac OS 또는 Linux를 실행하는 데스크톱 컴퓨터와 Rasberry Pi와 같은 구형 또는 저전력 하드웨어를 포함하는 Python을 설치할 수 있는 모든 곳에서 실행되는 게임이며, 미국 전역의 6-12학년 아이들은 게임을 통해 암호화와 발사체 움직임과 같은 주제에 대해 배우는 것을 즐겼다고 합니다. 각 게임은 다른 게임과는 완전히 독립적이며 학생들과 함께 연습할 수 있는 목록과 함께 코멘트를 포함하며, 창의성과 유연성이 중요한 요소입니다. 새로운 특징이나 행동을 구현하는 옳고 그른 방법은 없으며 이는 학생들이 어떤 게임을 잘 하고 좋아할지 모르기 때문이라고 합니다. 
+
+현재 프로젝트에서 실행할 수 있는 15개의 게임에 대해 몇가지 소개해보려고 합니다. 
+**Paint**
+Paint -- 스크린에 선과 모양을 그리는 게임. 그리기 시작할 때와 그리기를 종료할 때 클릭하는 방식! 다른 모양과 색깔은 키보드를 사용하여 선택할 수 있습니다. 
+![paint](https://user-images.githubusercontent.com/55980214/99898830-ecfcf380-2ce7-11eb-91d0-33666c24eddb.JPG)
+
+
+**Fidget**
+Fidget -- 애니메이션이 포함된 피젯 스피너 게임. 피젯스피너를 빨리 돌리기 위해서 스크린을 클릭하는 간단한 게임입니다.
+![fidget](https://user-images.githubusercontent.com/55980214/99898824-dce51400-2ce7-11eb-8ce5-d29f22ee9725.JPG)
+
+
+**Tiles**
+Tiles -- 미닫이 놀이를 퍼즐로 맞추는 게임. 빈 사각형에 인접한 타일을 클릭하여 위치를 바꿉니다. 
+![tiles](https://user-images.githubusercontent.com/55980214/99898826-de164100-2ce7-11eb-844a-4a3bd93618d7.JPG)
+
+
+**Connect**
+Connect -- 행을 클릭하면 디스크를 삭제할 수 있습니다. 4개의 디스크를 수직, 수평 또는 대각선으로 연결한 첫 번째 플레이어가 승리합니다. 
+![connect](https://user-images.githubusercontent.com/55980214/99898827-deaed780-2ce7-11eb-9bfb-63e5737ab7d9.JPG)
+
+
+**Pacman**
+Pacman -- 고전 아케이드 게임. 화살표 키를 사용하여 모든 흰 음식을 탐색하고 먹습니다. 미로를 배회하는 붉은 귀신을 조심하세요.
+![pacman](https://user-images.githubusercontent.com/55980214/99898828-deaed780-2ce7-11eb-8a89-13157baab231.JPG)
+
+
 
 ```yaml
 bootwatch: custom
