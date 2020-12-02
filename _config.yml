@@ -39,7 +39,14 @@ defaults:
     layout: post
     sectionid: blog
 
-
+- scope:
+    path: _docs
+    type: docs
+  values:
+    layout: docs
+    sectionid: docs
+    seo:
+      type: "WebPage"
 
 collections:
   docs:
