@@ -13,7 +13,7 @@ Team OSS-9은 이 게임에 새로운 게임인 `스도쿠`를 추가하여 Free
 ## [조작법]
 ### 1. 메인 화면에서 난이도를 선택합니다.
 ![image1](./Image/스도쿠1.JPG){: width="30%" height="60%"}
-
+<img src="./Image/스도쿠1.JPG" width="300" height="300">
 ### 2. 빈칸을 클릭합니다.
 ![image1](./Image/스도쿠2.JPG){: width="30%" height="60%"}
 
@@ -23,7 +23,7 @@ Team OSS-9은 이 게임에 새로운 게임인 `스도쿠`를 추가하여 Free
 ### 4. 숫자가 입력된 것을 확인한 후 게임을 계속 진행합니다.
 ![image1](./Image/5.JPG){: width="30" height="60"}
 
-##[TEAM]
+## [OUR TEAM]
 Our team is made of 6 members&#9996;. <br>
 &#9989;[Kim Sang-hun](https://github.com/baldwinIV)<br>
 &#9989;[Gil Eun-ji](https://github.com/EunJiGil)<br>
