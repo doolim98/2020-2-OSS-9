@@ -12,16 +12,16 @@ Team OSS-9은 이 게임에 새로운 게임인 `스도쿠`를 추가하여 Free
 
 ## [조작법]
 ### 1. 메인 화면에서 난이도를 선택합니다.
-<img src="./Image/스도쿠1.JPG" width="500" height="700">
+<img src="./Image/스도쿠1.JPG" width="500" height="600">
 
 ### 2. 빈칸을 클릭합니다.
-<img src="./Image/스도쿠2.JPG" width="500" height="700">
+<img src="./Image/스도쿠2.JPG" width="500" height="600">
 
 ### 3. 화면에 1부터 9까지의 숫자 중 하나를 쓰고 OK를 누릅니다.
-<img src="./Image/3.JPG" width="500" height="700">
+<img src="./Image/3.JPG" width="500" height="600">
 
 ### 4. 숫자가 입력된 것을 확인한 후 게임을 계속 진행합니다.
-<img src="./Image/4.JPG" width="500" height="700">
+<img src="./Image/4.JPG" width="500" height="600">
 
 ## [OUR TEAM]
 Our team is made of 6 members&#9996;. <br>
