@@ -24,7 +24,7 @@ Team OSS-9은 이 게임에 새로운 게임인 `스도쿠`를 추가하여 Free
 <img src="./Image/4.JPG" width="500" height="600">
 
 ## [OUR TEAM]
-우리 팀은 6명으로 구성되어 있습니다.&#9996;. <br>
+**우리 팀은 6명으로 구성되어 있습니다.&#9996;** <br>
 &#9989;[Kim Sang-hun](https://github.com/baldwinIV)<br>
 &#9989;[Gil Eun-ji](https://github.com/EunJiGil)<br>
 &#9989;[Lee Eun-ji](https://github.com/eunji0123)<br>
