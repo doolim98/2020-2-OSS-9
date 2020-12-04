@@ -1,5 +1,5 @@
 ---
-layout: post 2020-11-28-New-game-selected.md
+layout: post 
 title:  "New game selected"
 author: EunjiGil
 ---
