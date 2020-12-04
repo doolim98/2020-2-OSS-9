@@ -1,5 +1,5 @@
 ---
-title: Explanation
+title: SUDOKU
 permalink: /docs/sudoku/
 ---
 ## SUDOKU
