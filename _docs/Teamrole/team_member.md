@@ -4,7 +4,7 @@ permalink: /docs/team_member/
 ---
 ## [OUR TEAM]
 ### 2020-2-OSS-9<br><br><br>
-
+**
 #### &#9989;[Kim Sang-hun](https://github.com/baldwinIV)<br><br>
 - 이름:  <br>
 - 학과: <br>
@@ -29,3 +29,4 @@ permalink: /docs/team_member/
 - 이름:  <br>
 - 학과: <br>
 - 학번:<br>
+**
