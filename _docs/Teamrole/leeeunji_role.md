@@ -2,7 +2,7 @@
 title: Lee Eun-ji
 permalink: /docs/leeeunji_role/
 ---
-## &#9989;[Lee Eun-ji](https://github.com/eunji0123)<br><br>
+<br><br>
 - Sudoku에 restart 기능을 추가하여 게임이 끝나도 user가 원할 시 새 게임을 시작할 수 있도록 함.<br><br>
 - Sudoku에서 게임이 끝나면 종료할지 restart 할지를 선택하는 창이 뜨도록 messagebox를 활용해 구현함.<br><br>
 - Sudoku에서 사용자가 입력한 숫자와 정답을 비교하는 기능을 구현함.<br><br>
