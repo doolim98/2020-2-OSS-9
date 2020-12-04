@@ -5,6 +5,7 @@ author: EunjiGil
 ---
 
 author: EunjiGil
+
 다음은 9조가 선정한 프로젝트에 대한 분석입니다.  
 
 저희가 선정한 프로젝트는 'free-python-games'이며, 교육과 재미를 목적으로 하는 무료 Python 게임이고 현재 총 15개의 게임으로 이루어져 있습니다.
