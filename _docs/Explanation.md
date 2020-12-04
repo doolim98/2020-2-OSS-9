@@ -25,24 +25,24 @@ Team OSS-9은 이 게임에 새로운 게임인 `스도쿠`를 추가하여 Free
 ## [게임 시작]
 ### 1. 게임 실행을 위해 python과 freegames library 설치가 필요합니다.
 python 설치 후 freegames library는 아래 그림의 명령어를 cmd창에서 입력함으로써 설치가 가능합니다.  
-![image1](../../Image/명령어.JPG)
+![image1](https://raw.githubusercontent.com/20-2-SKKU-OSS/2020-2-OSS-9/main/Image/명령어.JPG)
 ### 2. 코드를 다운 받아 게임을 실행합니다. 
 
 ## [조작법]
 ### 1. 메인 화면에서 난이도를 선택합니다.
-![image1](https://raw.githubusercontent.com/20-2-SKKU-OSS/2020-2-OSS-9/main/Image/3.JPG)
+![image1](https://raw.githubusercontent.com/20-2-SKKU-OSS/2020-2-OSS-9/main/Image/스도쿠1.JPG)
 
 ### 2. 빈칸을 클릭합니다.
-![image1](../../Image/스도쿠2.JPG)
+![image1](https://raw.githubusercontent.com/20-2-SKKU-OSS/2020-2-OSS-9/main/Image/스도쿠2.JPG)
 
 ### 3. 화면에 1부터 9까지의 숫자 중 하나를 쓰고 OK를 누릅니다.
-![image1](../../Image/sudoku2.JPG)
+![image1](https://raw.githubusercontent.com/20-2-SKKU-OSS/2020-2-OSS-9/main/Image/sudoku2.JPG)
 
 ### 4. 숫자가 입력된 것을 확인한 후 게임을 계속 진행합니다.
-![image1](../../Image/5.JPG)
+![image1](https://raw.githubusercontent.com/20-2-SKKU-OSS/2020-2-OSS-9/main/Image/5.JPG)
 
 ### 5. HOME 버튼을 눌러 게임 도중 메인 화면으로 돌아갈 수 있습니다.
-![image1](../../Image/sudoku1.JPG)
+![image1](https://raw.githubusercontent.com/20-2-SKKU-OSS/2020-2-OSS-9/main/Image/sudoku1.JPG)
 
 ### 6. 게임 클리어 화면
-![image1](../../Image/sudoku3.JPG)
+![image1](https://raw.githubusercontent.com/20-2-SKKU-OSS/2020-2-OSS-9/main/Image/sudoku3.JPG)
