@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post 2020-11-28-New-game-selected.md
 title:  "New game selected"
 author: EunjiGil
 ---
@@ -8,4 +8,5 @@ author: EunjiGil
 
 ![gameselect](https://user-images.githubusercontent.com/55980214/100721316-86bc5300-3402-11eb-9edf-2279a0c34b99.JPG)
 
-테트리스, Hangman, 윷놀이, 스도쿠와 같은 다양한 의견이 나왔습니다. 
+테트리스, Hangman, 윷놀이, 스도쿠와 같은 다양한 의견이 나왔고, 기존의 프로젝트의 issue 내용을 확인한 뒤 
+아직 의견이 나온적 없었던 스도쿠를 선정하였습니다
