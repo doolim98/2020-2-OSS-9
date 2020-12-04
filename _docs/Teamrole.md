@@ -1,8 +1,8 @@
 ---
-title: TEAM member roles
+title: Contributors
 permalink: /docs/team_role/
 ---
-**&#9989;[Kim Sang-hun(Leader)](https://github.com/baldwinIV)<br>
+&#9989;[Kim Sang-hun(Leader)](https://github.com/baldwinIV)<br>
 content<br>
 &#9989;[Gil Eun-ji](https://github.com/EunJiGil)<br>
 &#9989;[Lee Eun-ji](https://github.com/eunji0123)<br>
@@ -25,4 +25,4 @@ content<br>
 #### 마우스를 클릭하면 난이도 버튼이 반응하도록  tap_button(), change_pixel_to_button_index() 구현<br>
 #### 난이도를 구분하고 각 난이도마다 지울 칸의 갯수 지정 game_start() 수정<br>
 #### 보드 기존의 숫자가 아닌 사용자가 입력한 숫자는 파랑색으로 나오게끔 square_given()함수 수정<br>
-&#9989;[Park Yun-jin](https://github.com/younjin0520)<br>**
+&#9989;[Park Yun-jin](https://github.com/younjin0520)<br>
