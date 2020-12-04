@@ -1,13 +1,13 @@
-- title: Getting Started
+- title: Project Analysis
   docs:
   - home
-
-- title: whattodo
-  docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
   
 - title: Explanation
   docs:
   - explanation
+  
+- title: team role
+  docs:
+  - team_role
+  
+
