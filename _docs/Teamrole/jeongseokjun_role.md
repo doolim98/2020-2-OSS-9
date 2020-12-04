@@ -1,5 +1,5 @@
 ---
-title: Contributors
+title: Jeong Seok-jun
 permalink: /docs/jeongseokjun_role/
 ---
 ## &#9989;[Jeong Seok-jun](https://github.com/June1010)<br><br>
