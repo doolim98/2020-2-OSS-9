@@ -2,7 +2,7 @@
 title: Explanation
 permalink: /docs/sudoku/
 ---
-SUDOKU
+##SUDOKU
 <br><br>
 ### [게임 소개]
 **스도쿠는 18세기 수학자 `오일러`가 창안한 빈칸에 1~9까지의 숫자를 채우는 게임입니다.<br>
