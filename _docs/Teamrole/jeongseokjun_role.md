@@ -2,6 +2,7 @@
 title: Jeong Seok-jun
 permalink: /docs/jeongseokjun_role/
 ---
+<br><br>
 - 스도쿠에서 숫자를 가리는 Erase() 함수 구현<br><br>
 - 비정상적으로 우상단 칸이 늘어나있는 문제 forward(50)으로 수정<br><br>
 - 마우스를 클릭하면 난이도 버튼이 반응하도록  tap_button(), change_pixel_to_button_index() 구현<br><br>
