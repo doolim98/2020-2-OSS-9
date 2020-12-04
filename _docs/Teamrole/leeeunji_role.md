@@ -1,5 +1,5 @@
 ---
-title: Contributors
+title: Lee Eun-ji
 permalink: /docs/leeeunji_role/
 ---
 ## &#9989;[Lee Eun-ji](https://github.com/eunji0123)<br><br>
