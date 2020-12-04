@@ -1,7 +1,15 @@
-- title: Project analysis
+- title: Getting Started
   docs:
-  - Project analysis
+  - home
+  - themes
+  - customization
 
 - title: whattodo
   docs:
- 
+  - cheatsheet
+  - font-awesome
+  - bootstrap
+  
+- title: Explanation
+  docs:
+  - explanation
