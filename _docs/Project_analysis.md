@@ -1,5 +1,5 @@
 ---
-title:  Project_analysis
+title:  Project analysis
 permalink: /docs/home/
 ---
 
