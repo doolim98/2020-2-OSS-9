@@ -2,7 +2,7 @@
 title: Seo Han-gyeol
 permalink: /docs/seohangyeol_role/
 ---
-## &#9989;[Seo Han-gyeol](https://github.com/Seo-han-gyeol)<br><br>
+<br><br>
 
 - 만들어진 Sudoku 게임을 실행해보고 버그를 발견<br><br>
 - 버그 수정을 위한 code review를 통해 버그를 수정<br><br>
