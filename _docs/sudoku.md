@@ -35,4 +35,8 @@ python 설치 후 freegames library는 아래 그림의 명령어를 cmd창에�
 #### 5. HOME 버튼을 눌러 게임 도중 메인 화면으로 돌아갈 수 있습니다.
 ![image1](https://raw.githubusercontent.com/20-2-SKKU-OSS/2020-2-OSS-9/main/Image/sudoku1.JPG)<br>
 #### 6. 게임 클리어 화면
-![image1](https://raw.githubusercontent.com/20-2-SKKU-OSS/2020-2-OSS-9/main/Image/sudoku3.JPG)
+![image1](https://raw.githubusercontent.com/20-2-SKKU-OSS/2020-2-OSS-9/main/Image/sudoku3.JPG)<br>
+#### 7. 플레이 화면(1)
+![image1](https://raw.githubusercontent.com/20-2-SKKU-OSS/2020-2-OSS-9/main/Image/sudoku4.JPG)<br>
+#### 7. 플레이 화면(2)
+![image1](https://raw.githubusercontent.com/20-2-SKKU-OSS/2020-2-OSS-9/main/Image/sudoku5.JPG)<br>
