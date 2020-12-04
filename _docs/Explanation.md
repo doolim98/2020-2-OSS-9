@@ -30,7 +30,7 @@ python 설치 후 freegames library는 아래 그림의 명령어를 cmd창에�
 
 ## [조작법]
 ### 1. 메인 화면에서 난이도를 선택합니다.
-![image1](../../Image/스도쿠1.JPG)
+![image1](https://raw.githubusercontent.com/20-2-SKKU-OSS/2020-2-OSS-9/main/Image/3.JPG)
 
 ### 2. 빈칸을 클릭합니다.
 ![image1](../../Image/스도쿠2.JPG)
