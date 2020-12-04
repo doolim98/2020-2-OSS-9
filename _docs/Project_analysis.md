@@ -1,7 +1,6 @@
 ---
-title:  "Project analysis"
+title:  Project analysis
 permalink: /docs/home
-author: EunjiGil
 ---
 
 author: EunjiGil
