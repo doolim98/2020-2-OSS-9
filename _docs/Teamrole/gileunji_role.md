@@ -9,3 +9,7 @@ permalink: /docs/gileunji_role/
 - 커뮤니티 선정 및 활동 계획 회의에 대한 issue를 오픈하여 회의를 진행함.(11/23) <br><br>
 - Static page에 Project analysis에 대한 내용들을 정리하여 포스팅함. (11/24) <br><br>
 - Static page에 Activities Plan에 대한 내용들을 정리하여 포스팅함. (11/27) <br><br>
+- 게임 선정 및 개발 계획에 대한 issue를 오픈하여 회의를 진행함. (11/28) <br><br>
+- Static page에 회의내용을 바탕으로 New game selected라는 주제를 포스팅함. (11/28) <br><br>
+- Sudoku 게임을 함께 개발하는 팀원들과 협업 순서 및 역할에 대해서 회의함. (11/28) <br><br>
+- Sudoku 게임을 play하는 화면에서 user가 홈으로 돌아갈 수 있는 Home 버튼을 구현하여 merge함. (12/01) <br><br>
