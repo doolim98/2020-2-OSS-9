@@ -15,5 +15,6 @@ permalink: /docs/gileunji_role/
 - Sudoku 게임을 play하는 화면에서 user가 홈으로 돌아갈 수 있는 Home 버튼을 구현하여 merge함. (12/01) <br><br>
 - Sudoku 게임에서 답을 입력하기 위해 등장하는 문구를 수정하여 merge함. (12/01) <br><br>
 - GitHub repository의 issue에 활발히 답변하는 등 팀 회의에 적극적으로 참여함. (11/19~) <br><br>
-
+- GitHub의 Projects를 static page와 sudoku로 open하여 할 일을 정리하고 다른 팀원들과 협업함. (11/23~) <br><br> 
+- sudoku 리포지토리에서 다른 팀원들의 pull request를 검토하고 merge함. (12/05) <br><br>
 
