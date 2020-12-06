@@ -13,4 +13,4 @@ permalink: /docs/kimsanghun_role/
 - 다른 팀원이 update한 code에 부족한 기능 review(게임 난이도 관련 문제).is_all_numright 함수 추가와 주석 추가등 방향 제시  
 - kakaotalk group call로 주로 이루어진 팀회의 주최  
 - 팀 커뮤니티로 지정한 github issue에 의견 제시, 유용한 정보(각종 API docs)공유, 필요한 역할 제시등 활발한 팀 협업 활동
-
+- Original Project에 최종본 PL
